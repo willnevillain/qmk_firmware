@@ -10,7 +10,6 @@ enum custom_keycodes {
   DFLT = SAFE_RANGE,
   LWR,
   RSE,
-  GME,
 };
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
